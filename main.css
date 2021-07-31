@@ -197,9 +197,13 @@ pre{
     .header input{
         width: 15rem;
     }
+
     .hero-img img{
         height: 10rem;
        
+    }
+    .header img{
+        width:5rem;
     }
 
 }
